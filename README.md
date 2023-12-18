@@ -16,7 +16,7 @@ auto mint cia-20 #Inscription with typescript
     -  `const TOTAL_TX = 3 //change to a number transsaction you want`
 
 3. Install:
-    -  `npm instal`
+    -  `npm install`
 
 4. Start:
     -  `npm start`
